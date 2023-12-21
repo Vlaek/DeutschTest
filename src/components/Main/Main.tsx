@@ -3,8 +3,8 @@ import { FC } from 'react'
 
 const Main: FC = () => {
 	return (
-		<div className='w-full h-full'>
-			<div className='text-center'>Main</div>
+		<div className=''>
+			<div className=''>Main</div>
 		</div>
 	)
 }
